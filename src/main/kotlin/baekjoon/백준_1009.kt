@@ -1,4 +1,4 @@
-package org.example
+package org.example.baekjoon
 
 
 fun main(args: Array<String>) {

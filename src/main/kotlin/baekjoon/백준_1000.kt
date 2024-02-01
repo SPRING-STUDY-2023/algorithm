@@ -1,7 +1,4 @@
-package org.example
-
-import java.io.BufferedReader
-import java.io.InputStreamReader
+package org.example.baekjoon
 
 class 백준_1000 {
 
